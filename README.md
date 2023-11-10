@@ -10,4 +10,4 @@
  
  chmod +x *
  
- python Robin.py
+ python3 Robin.py
